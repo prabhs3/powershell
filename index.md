@@ -7,3 +7,4 @@
 ### *[Loops](loops.md)*
 ### *[Arrays](Arrays.md)*
 ### *[Hash Table](Hash_Table.md)*
+### *[Formatting Table](Formatting_output.md)*
