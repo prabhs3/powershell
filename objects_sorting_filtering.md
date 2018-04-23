@@ -49,6 +49,8 @@
           Mode                LastWriteTime         Length Name
           ----                -------------         ------ ----
          -a----        1/18/2018   1:45 PM           3439 SuperPuTTY.settings
+         
+         get-content -Path C:\Users\pyelgoi\Desktop\lockouts.txt | sort -unique | Measure-Object
           
           
 ####  GO *[BACK](index.md)*          
