@@ -2,9 +2,11 @@
 
 #   Import Data
 
+        Use Census1000.csv file on Github to practice
+
         create an objest by setting variable eq csv file
         
-        $names = Import-csv c:census.csv
+        $names = Import-csv c:census1000.csv
         $names /// enter
         $name | format-table
         $names | get-member
