@@ -1,3 +1,5 @@
+#### GO TO *[HOME PAGE](index.md)*
+
 # Basic commands
 
 
@@ -181,7 +183,7 @@
         Alias           blah -> Get-ChildItem
 
           
-        
+####  GO *[BACK](index.md)*        
         
     
     
