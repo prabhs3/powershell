@@ -1,3 +1,5 @@
+#### GO TO *[HOME PAGE](index.md)*
+
 #  Arrays
 
 
@@ -47,5 +49,5 @@
       PS C:\Users\pyelgoi>
 
       
-      
+ ####  GO *[BACK](index.md)*     
       
