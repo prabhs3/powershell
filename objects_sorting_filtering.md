@@ -51,6 +51,8 @@
          -a----        1/18/2018   1:45 PM           3439 SuperPuTTY.settings
          
          get-content -Path C:\Users\pyelgoi\Desktop\lockouts.txt | sort -unique | Measure-Object
+         
+         get-content -Path C:\Users\pyelgoi\Desktop\lockouts.txt | sls 10 (sls = grep)
           
           
 ####  GO *[BACK](index.md)*          
