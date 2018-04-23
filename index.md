@@ -9,4 +9,5 @@
 ### *[Hash Table](Hash_Table.md)*
 ### *[Formatting Table](Formatting_output.md)*
 ### *[Export Output](saving_output.md)*
+### *[Import Data](Import_Data.md)*
 
