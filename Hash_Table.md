@@ -1,3 +1,5 @@
+#### GO TO *[HOME PAGE](index.md)*
+
 #  Hash Tables
 
             
@@ -50,6 +52,7 @@
             upender                        32432432
 
 
+####  GO *[BACK](index.md)*
 
 
 
