@@ -13,7 +13,7 @@
           (you can use the options when you do get-member, length etc,.)
           
           
-##  Sort 
+##  Sorting 
           
           
            PS C:\Users\pyelgoi> dir | sort -property -size -Desc
