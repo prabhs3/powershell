@@ -1,7 +1,7 @@
 #### GO TO *[HOME PAGE](index.md)*
 
 
-#  Objects
+##  Objects
 
         
           PS C:\Users\pyelgoi> $file = dir
@@ -13,13 +13,13 @@
           (you can use the options when you do get-member, length etc,.)
           
           
-## Sort 
+##  Sort 
           
           
            PS C:\Users\pyelgoi> dir | sort -property -size -Desc
            help sort -online
            
-## Filtering
+##  Filtering
 
                 
            help where -online
