@@ -10,4 +10,5 @@
 ### *[Formatting Table](Formatting_output.md)*
 ### *[Export Output](saving_output.md)*
 ### *[Import Data](Import_Data.md)*
+### *[Manipulate Data](Manipulate_Imported_Data.md)*
 
