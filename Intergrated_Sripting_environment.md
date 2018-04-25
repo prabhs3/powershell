@@ -1,3 +1,4 @@
+#### GO TO *[HOME PAGE](index.md)*
 
 
 #         Integrated scripting environment 
@@ -36,7 +37,7 @@
                 $result = Just-the-first -num1 123 -num2 243  
 
 
-                  
+####  GO *[BACK](index.md)*                    
       
 
                   
